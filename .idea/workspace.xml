@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4db8543-14ea-4fd9-913a-934263df209d" name="Changes" comment="Reflectie">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="f4db8543-14ea-4fd9-913a-934263df209d" name="Changes" comment="X-factor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +93,7 @@
       <workItem from="1767871036457" duration="4187000" />
       <workItem from="1767881950432" duration="10261000" />
       <workItem from="1767896261597" duration="221000" />
-      <workItem from="1767896507478" duration="2604000" />
+      <workItem from="1767896507478" duration="2990000" />
     </task>
     <task id="LOCAL-00001" summary="Push1">
       <option name="closed" value="true" />
@@ -202,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767897858413</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="X-factor">
+      <option name="closed" value="true" />
+      <created>1767899423588</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1767899423588</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +236,8 @@
     <MESSAGE value="Ontwikkeling 4.3.1 en 4.3.2" />
     <MESSAGE value="4.3.3 situering binnen profiel" />
     <MESSAGE value="Reflectie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reflectie" />
+    <MESSAGE value="X-factor" />
+    <option name="LAST_COMMIT_MESSAGE" value="X-factor" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
