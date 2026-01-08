@@ -24,3 +24,9 @@ fieldset{
     margin: auto;
     max-width: 1000px;
 }
+
+.Reflection{
+    p{
+        padding: 10px;
+    }
+}

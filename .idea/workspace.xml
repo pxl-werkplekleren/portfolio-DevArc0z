@@ -31,12 +31,12 @@
     &quot;assignee&quot;: &quot;DevArc0z&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/pxl-werkplekleren/portfolio-DevArc0z.git&quot;,
-    &quot;accountId&quot;: &quot;0dce8a40-8525-4f2e-b22b-c3821665abd9&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pxl-werkplekleren/portfolio-DevArc0z",
+    "accountId": "3c7b4488-5c78-4c31-bf41-df42419ea0b1"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -52,6 +52,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
@@ -95,6 +96,8 @@
       <workItem from="1767858813156" duration="9141000" />
       <workItem from="1767871036457" duration="4187000" />
       <workItem from="1767881950432" duration="10261000" />
+      <workItem from="1767896261597" duration="221000" />
+      <workItem from="1767896507478" duration="1306000" />
     </task>
     <task id="LOCAL-00001" summary="Push1">
       <option name="closed" value="true" />
