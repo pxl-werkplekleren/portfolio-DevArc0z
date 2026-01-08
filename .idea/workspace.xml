@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4db8543-14ea-4fd9-913a-934263df209d" name="Changes" comment="Portfolio reset">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f4db8543-14ea-4fd9-913a-934263df209d" name="Changes" comment="Introductie portfolio 4.1">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +89,7 @@
       <workItem from="1765888461271" duration="4676000" />
       <workItem from="1765894564055" duration="81000" />
       <workItem from="1765894675858" duration="306000" />
-      <workItem from="1767858813156" duration="994000" />
+      <workItem from="1767858813156" duration="1343000" />
     </task>
     <task id="LOCAL-00001" summary="Push1">
       <option name="closed" value="true" />
@@ -148,11 +147,30 @@
       <option name="project" value="LOCAL" />
       <updated>1767858902121</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Introductie portfolio 4.1">
+      <option name="closed" value="true" />
+      <created>1767859995042</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1767859995042</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Push1" />
@@ -160,7 +178,8 @@
     <MESSAGE value="Toevoeging van h2 en css" />
     <MESSAGE value="background color" />
     <MESSAGE value="Portfolio reset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Portfolio reset" />
+    <MESSAGE value="Introductie portfolio 4.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introductie portfolio 4.1" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
