@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4db8543-14ea-4fd9-913a-934263df209d" name="Changes" comment="4.3.3 situering binnen profiel">
+    <list default="true" id="f4db8543-14ea-4fd9-913a-934263df209d" name="Changes" comment="Reflectie">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opmaak.css" beforeDir="false" afterPath="$PROJECT_DIR$/opmaak.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +96,7 @@
       <workItem from="1767871036457" duration="4187000" />
       <workItem from="1767881950432" duration="10261000" />
       <workItem from="1767896261597" duration="221000" />
-      <workItem from="1767896507478" duration="1306000" />
+      <workItem from="1767896507478" duration="2604000" />
     </task>
     <task id="LOCAL-00001" summary="Push1">
       <option name="closed" value="true" />
@@ -195,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767871210747</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Reflectie">
+      <option name="closed" value="true" />
+      <created>1767897858413</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1767897858413</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +230,8 @@
     <MESSAGE value="Logboek 4.2" />
     <MESSAGE value="Ontwikkeling 4.3.1 en 4.3.2" />
     <MESSAGE value="4.3.3 situering binnen profiel" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.3.3 situering binnen profiel" />
+    <MESSAGE value="Reflectie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reflectie" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
