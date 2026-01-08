@@ -18,4 +18,9 @@ table, th, td {
 }
 td{
     max-width: 800px;
+    padding: 10px;
+}
+fieldset{
+    margin: auto;
+    max-width: 1000px;
 }
